@@ -3,3 +3,6 @@ La medicina (del latín medicina) es la ciencia de la salud dedicada a la preven
 Al profesional de la salud capacitado para aplicar tales conocimientos técnicos en el mantenimiento o mejora de la salud humana se le conoce como médico o coloquialmente como doctor y normalmente se los encuentra en hospitales, aunque también pueden laborar como investigadores médicos en laboratorios clínicos, como docentes en facultades de medicina o como funcionarios en el sistema de salud pública.
 
 Es importante aclarar que algunas disciplinas como la odontología, la psicología clínica o incluso la medicina veterinaria no son especialidades médicas, sino campos diferentes que al formar también parte de las ciencias médicas comparten características comunes con la medicina como el empleo del mismo método clínico.
+
+
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
